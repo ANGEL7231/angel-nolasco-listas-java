@@ -21,6 +21,10 @@ En este repositorio se implementan estructuras de datos propias (nodos y listas 
 * **Ejercicio 8:** `Derdenio y sus Estructuras de Datos` 
   * *Tipo de lista:* Lista Doblemente Enlazada
 
+## Documentación (PDF)
+El reporte detallado con la descripción de los problemas, justificación, casos de prueba y capturas de pantalla de omegaUp se encuentra en el siguiente archivo dentro del repositorio:
+* **Archivo PDF:** [Nolasco_Angel_ListasJava.pdf](./Nolasco_Angel_ListasJava.pdf)
+
 ---
 
 ## Cómo Compilar y Ejecutar
